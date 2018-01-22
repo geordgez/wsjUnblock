@@ -38,6 +38,7 @@
     "https://*.washingtonpost.com/*",
     "http://*.washingtonpost.com/*",
     "https://*.bizjournals.com/*",
-    "http://*.bizjournals.com/*"
+    "http://*.bizjournals.com/*",
+    "http://www.kleinezeitung.at/*"
    ]
 }
