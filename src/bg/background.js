@@ -50,7 +50,7 @@ var sites = {
 		]
 	},
 	philly: {
-		url: "*://*.philly.com",
+		url: "*://*.philly.com/*",
 	},
 	kleinezeitung: {
 		url: "*://*.kleinezeitung.at/*",
