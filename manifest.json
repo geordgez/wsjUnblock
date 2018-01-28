@@ -17,6 +17,10 @@
       {
         "matches": ["https://cooking.nytimes.com/*"],
         "css" : ["css/nyt.css"]
+      },
+      {
+        "matches": ["https://*.linkedin.com/in/*"],
+        "css": ["css/linkedin.css"]
       }
   ],
   "permissions": [
@@ -38,6 +42,8 @@
     "https://*.washingtonpost.com/*",
     "http://*.washingtonpost.com/*",
     "https://*.bizjournals.com/*",
-    "http://*.bizjournals.com/*"
+    "http://*.bizjournals.com/*",
+    "https://*.linkedin.com/*",
+    "http://*.linkedin.com/*"
    ]
 }

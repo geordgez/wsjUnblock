@@ -1,0 +1,15 @@
+/**
+ * CSS for removing the login wall and scroll freeze on LinkedIn
+ *
+ * Attributes affected:
+ * - #advocate-modal is the popup window prompting you to log in
+ * - advocate-modal-visible disables scrolling on the page
+ */
+
+#advocate-modal.show {
+  display: none !important;
+}
+
+body.advocate-modal-visible {
+  overflow: visible !important;
+}
