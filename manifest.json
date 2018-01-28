@@ -41,9 +41,11 @@
     "http://*.bwbx.io/*",
     "https://*.washingtonpost.com/*",
     "http://*.washingtonpost.com/*",
+    "http://*.philly.com/*",
     "https://*.bizjournals.com/*",
     "http://*.bizjournals.com/*",
     "https://*.linkedin.com/*",
-    "http://*.linkedin.com/*"
+    "http://*.linkedin.com/*",
+    "http://www.kleinezeitung.at/*"
    ]
 }

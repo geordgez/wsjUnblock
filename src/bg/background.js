@@ -3,7 +3,7 @@
 var newHeader = {
 	referer: {
 		name: "Referer",
-		value: "https://www.twitter.com", // or "https://www.facebook.com"
+		value: "https://www.facebook.com", // or "https://www.twitter.com"
 	},
 	cookie: {
 		name: "Cookie",
@@ -48,6 +48,12 @@ var sites = {
 		js: [
 			"*://*.bizjournals.com/dist/js/article.min.js*"
 		]
+	},
+	philly: {
+		url: "*://*.philly.com/*",
+	},
+	kleinezeitung: {
+		url: "*://*.kleinezeitung.at/*",
 	}
 };
 
